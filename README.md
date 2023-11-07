@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prakash-Chaudhary-11
+- 👋 Hi, I’m @Rudra-Pratap
 - 👀 I’m interested in artificials intelligence
 - 🌱 I’m currently learning java and machine learning
 - 💞️ I’m looking to internships
